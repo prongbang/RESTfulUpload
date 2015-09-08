@@ -1,2 +1,2 @@
 # RESTfulUpload
-Android Upload to JAX-RS RESTful Web Service
+Android Upload File to JAX-RS RESTful Web Service
